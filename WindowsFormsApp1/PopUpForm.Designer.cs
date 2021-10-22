@@ -59,7 +59,7 @@ namespace WindowsFormsApp1
             this.dateTimePicker1.Size = new System.Drawing.Size(103, 20);
             this.dateTimePicker1.TabIndex = 2;
             // 
-            // Form2
+            // PopUpForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -67,9 +67,9 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
-            this.Name = "Form2";
-            this.Text = "Form2";
-            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form2_FormClosed);
+            this.Name = "PopUpForm";
+            this.Text = "PopUpForm";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.PopUp_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
 

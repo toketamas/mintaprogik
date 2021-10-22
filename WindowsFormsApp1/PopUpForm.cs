@@ -31,11 +31,11 @@ namespace WindowsFormsApp1
             form1.refreshDataGrid(class1s);
             this.Close();
             
-        }
+        }     
 
-        private void Form2_FormClosed(object sender, FormClosedEventArgs e)
+        private void PopUp_FormClosed(object sender, FormClosedEventArgs e)
         {
-            form1.button1.Enabled = true;           
+            form1.button1.Enabled = true;
         }
     }
 }
