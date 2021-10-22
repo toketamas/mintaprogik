@@ -9,3 +9,14 @@ C:\Users\ttoke\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 C:\Users\ttoke\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 C:\Users\ttoke\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\ttoke\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+A:\TT_GIT\mintaprogik\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+A:\TT_GIT\mintaprogik\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+A:\TT_GIT\mintaprogik\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+A:\TT_GIT\mintaprogik\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+A:\TT_GIT\mintaprogik\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+A:\TT_GIT\mintaprogik\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+A:\TT_GIT\mintaprogik\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+A:\TT_GIT\mintaprogik\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+A:\TT_GIT\mintaprogik\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+A:\TT_GIT\mintaprogik\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+A:\TT_GIT\mintaprogik\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PopUpForm.resources
