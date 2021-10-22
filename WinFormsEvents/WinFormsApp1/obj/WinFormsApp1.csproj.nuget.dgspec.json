@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "A:\\TT_GIT\\Mintaprogik\\WinFormsEvents\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "A:\\TT_GIT\\mintaprogik\\WinFormsEvents\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "A:\\TT_GIT\\Mintaprogik\\WinFormsEvents\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "A:\\TT_GIT\\mintaprogik\\WinFormsEvents\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\TT_GIT\\Mintaprogik\\WinFormsEvents\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "A:\\TT_GIT\\mintaprogik\\WinFormsEvents\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "A:\\TT_GIT\\Mintaprogik\\WinFormsEvents\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "A:\\TT_GIT\\mintaprogik\\WinFormsEvents\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\ttoke\\.nuget\\packages\\",
-        "outputPath": "A:\\TT_GIT\\Mintaprogik\\WinFormsEvents\\WinFormsApp1\\obj\\",
+        "outputPath": "A:\\TT_GIT\\mintaprogik\\WinFormsEvents\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "A:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
           "C:\\Users\\ttoke\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
