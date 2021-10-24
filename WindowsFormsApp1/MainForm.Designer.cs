@@ -76,8 +76,8 @@ namespace WindowsFormsApp1
         }
 
         #endregion
-        public System.Windows.Forms.Button button1;
-        public System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.DateTimePicker dateTimePicker1;
     }
 }

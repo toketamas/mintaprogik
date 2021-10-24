@@ -77,7 +77,7 @@ namespace WindowsFormsApp1
 
         #endregion
 
-        public System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.DateTimePicker dateTimePicker1;
     }

@@ -8,14 +8,14 @@ namespace WindowsFormsApp1
 {
      public class Item
     {
-        String date;
-        String str;
+        string date;
+        string str;
 
         public Item()
         {
         }
 
-        public Item(String date, string str)
+        public Item(string date, string str)
         {
             this.date = date;
             this.str = str;

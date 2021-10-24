@@ -6,9 +6,8 @@ namespace WindowsFormsApp1
 {
     public partial class PopUpForm : Form
     {
-        MainForm form1;
-        List<Item> class1s;
-        DateTimePicker date;
+        MainForm main;
+             
 
         public PopUpForm()
         {
@@ -16,26 +15,22 @@ namespace WindowsFormsApp1
         }
 
 
-        public PopUpForm(MainForm form1, List<Item> class1s,DateTimePicker datePicker)
+        public PopUpForm(MainForm main,DateTime date)
         {
-            this.form1 = form1;
-            this.class1s = class1s;
-            this.date = datePicker;            
+            this.main = main;                                  
             InitializeComponent();
-            dateTimePicker1.Value = datePicker.Value;
+            dateTimePicker1.Value = date;
         }
 
         private void button1_Click(object sender, EventArgs e)
-        {
-            class1s.Add(new Item(dateTimePicker1.Value.ToString(), textBox1.Text));           
-            form1.refreshDataGrid(class1s);
-            this.Close();
-            
+        {                       
+            main.refreshDataGrid(new Item(dateTimePicker1.Value.ToString(), textBox1.Text));
+            this.Close();            
         }     
 
         private void PopUp_FormClosed(object sender, FormClosedEventArgs e)
         {
-            form1.button1.Enabled = true;
+            main.buttonIsEnable(true);
         }
     }
 }
